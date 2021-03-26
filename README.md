@@ -1,2 +1,3 @@
 # Enum_Converter
-Converts Enum data types in C,C++ to python data types
+Converts Enum data types in C,CPP,HPP to Python data types.
+Requires installing and importing the corresponding enum module
